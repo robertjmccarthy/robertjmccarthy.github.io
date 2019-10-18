@@ -1,0 +1,22 @@
+Websites4Pubs
+
+The challenge
+Take a decade old website builder system; upgrade, update, and improve, whilst retaining and growing an established customer base.
+
+
+What I did
+Websites4Pubs had a system that had been built upon over the years into a fully functional website builder for the hospitality industry. Throughout this time, the system had become bloated with features, the UI had been left untouched, and a customer acquisition strategy was non-existent.
+
+Working within a small product development team, our strategy was simple; keep existing customers happy on the current system, whatever it took, whilst developing a new system that we could soft launch to existing customers.
+
+At the early stages of development, we engaged with the existing customer base who were invaluable for user research, and for creating use cases.
+
+Prioritisation of features was key, and this was driven by conversations with existing customers as well as usage data logged in the existing system. Whilst the existing system was extensively feature rich, we found a number of features that were completely unused. These features never made it onto our backlog.
+
+As a small development team, we were working in a highly collaborative way throughout the entire project. Whilst working with 2 x full stack developers, I was responsible for the information architecture, UI and UX design, as well as product ownership and management.
+
+I created a design system, named Optic, that worked across a website builder, account system, and site management system. Creating this design system enabled my colleagues to apply a consistent and coherent UI whilst I continued to work on information architecture for further features.
+
+What was learnt
+
+Building a new product whilst keeping an existing one going is hard... really hard. At times, the existing product would require more of our time which would be really important to keep existing customers loyal, but this would also stop us from progressing the new product further - a double edged sword.
