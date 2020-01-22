@@ -38,6 +38,12 @@ a:active {
   outline-offset: 0px;
 }
 
+a.h1link {
+  font-family: "Muli", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+
 h1 {
   color: #4a4a4a;
   text-align: center;
@@ -62,13 +68,13 @@ h1.profile {
   width: 100%;
   margin: auto;
   padding-top: 0px;
-  padding-bottom: 30px;
+  padding-bottom: 60px;
   font-size: 32px;
 }
 
 h1.home-intro-text {
   color: #4a4a4a;
-  text-align: center;
+  text-align: left;
   font-family: "Muli", sans-serif;
   font-weight: 400;
   line-height: 1.5;
@@ -81,7 +87,7 @@ h1.home-intro-text {
 }
 
 p.home-intro-text {
-  text-align: center;
+  text-align: left;
 }
 
 .home-intro-container {
