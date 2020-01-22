@@ -95,8 +95,8 @@ a.linkone {
   height: auto;
   margin-left: 2%;
   margin-right: 2%;
-  padding-top: 60px;
-  padding-bottom: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 
 h1.profile {
@@ -108,8 +108,22 @@ h1.profile {
   max-width: 700px;
   width: 100%;
   margin: auto;
-  padding-top: 0px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 90px;
+  font-size: 32px;
+}
+
+h1.profilesecond {
+  color: #4a4a4a;
+  text-align: left;
+  font-family: "Muli", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  max-width: 700px;
+  width: 100%;
+  margin: auto;
+  padding-top: 90px;
+  padding-bottom: 0px;
   font-size: 32px;
 }
 
@@ -129,7 +143,7 @@ h1 {
   margin: auto;
   margin-left: 30px;
   margin-left: 30px;
-  padding-top: 200px;
+  padding-top: 0px;
   font-size: 32px
 }
 
@@ -158,15 +172,15 @@ h3.profile-heading {
   max-width: 700px;
   width: 100%;
   margin: auto;
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 40px;
+  padding-bottom: 10px;
   font-size: 28px;
 }
 
 p.profile {
   text-align: left;
-  padding-top: 30px;
-  padding-bottom: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .arrow-icon {
