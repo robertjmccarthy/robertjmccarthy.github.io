@@ -13,6 +13,32 @@ p {
   font-size: 21px;
 }
 
+ul {
+  list-style-type: circle;
+  color: #4a4a4a;
+  font-family: "Muli", sans-serif;
+  font-weight: 300;
+  line-height: 1.6;
+  max-width: 600px;
+  width: 90%;
+  margin: auto;
+  font-size: 21px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+ol {
+  list-style-type: lower-alpha;
+  color: #4a4a4a;
+  font-family: "Muli", sans-serif;
+  font-weight: 300;
+  line-height: 1.6;
+  max-width: 600px;
+  width: 90%;
+  margin: auto;
+  font-size: 18px;
+}
+
 #header {
   width: 96%;
   height: auto;
