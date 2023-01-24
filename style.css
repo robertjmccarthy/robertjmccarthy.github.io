@@ -72,11 +72,14 @@ a:visited {
 a:hover {
   color: #0b0c0c;
   text-decoration: underline;
+  outline: 3px solid #FBD205;
+  outline-offset: 0px;
 }
 
 a:active {
   outline: 3px solid #FBD205;
   outline-offset: 0px;
+  background-color: #FBD205;
 }
 
 a.logo {
